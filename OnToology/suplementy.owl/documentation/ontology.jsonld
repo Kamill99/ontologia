@@ -1,0 +1,811 @@
+[ {
+  "@id" : "_:genid1",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Restriction" ],
+  "http://www.w3.org/2002/07/owl#onProperty" : [ {
+    "@id" : "http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#jestRodzaju"
+  } ],
+  "http://www.w3.org/2002/07/owl#someValuesFrom" : [ {
+    "@id" : "http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Zdrowie"
+  } ]
+}, {
+  "@id" : "_:genid10",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Restriction" ],
+  "http://www.w3.org/2002/07/owl#onProperty" : [ {
+    "@id" : "http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#zawiera"
+  } ],
+  "http://www.w3.org/2002/07/owl#someValuesFrom" : [ {
+    "@id" : "http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Kofeina"
+  } ]
+}, {
+  "@id" : "_:genid11",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Restriction" ],
+  "http://www.w3.org/2002/07/owl#onProperty" : [ {
+    "@id" : "http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#jestRodzaju"
+  } ],
+  "http://www.w3.org/2002/07/owl#someValuesFrom" : [ {
+    "@id" : "http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Zdrowie"
+  } ]
+}, {
+  "@id" : "_:genid12",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Restriction" ],
+  "http://www.w3.org/2002/07/owl#onProperty" : [ {
+    "@id" : "http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#przeznaczenie"
+  } ],
+  "http://www.w3.org/2002/07/owl#someValuesFrom" : [ {
+    "@id" : "http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Stawy"
+  } ]
+}, {
+  "@id" : "_:genid13",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Restriction" ],
+  "http://www.w3.org/2002/07/owl#onProperty" : [ {
+    "@id" : "http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#jestRodzaju"
+  } ],
+  "http://www.w3.org/2002/07/owl#someValuesFrom" : [ {
+    "@id" : "http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Zdrowie"
+  } ]
+}, {
+  "@id" : "_:genid14",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Restriction" ],
+  "http://www.w3.org/2002/07/owl#onProperty" : [ {
+    "@id" : "http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#przeznaczenie"
+  } ],
+  "http://www.w3.org/2002/07/owl#someValuesFrom" : [ {
+    "@id" : "http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#OczyIWzrok"
+  } ]
+}, {
+  "@id" : "_:genid15",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Restriction" ],
+  "http://www.w3.org/2002/07/owl#onProperty" : [ {
+    "@id" : "http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#jestRodzaju"
+  } ],
+  "http://www.w3.org/2002/07/owl#someValuesFrom" : [ {
+    "@id" : "http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Minerały"
+  } ]
+}, {
+  "@id" : "_:genid16",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Restriction" ],
+  "http://www.w3.org/2002/07/owl#onProperty" : [ {
+    "@id" : "http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#przeznaczenie"
+  } ],
+  "http://www.w3.org/2002/07/owl#someValuesFrom" : [ {
+    "@id" : "http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#DlaWegetarian"
+  } ]
+}, {
+  "@id" : "_:genid17",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Restriction" ],
+  "http://www.w3.org/2002/07/owl#onProperty" : [ {
+    "@id" : "http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#przeznaczenie"
+  } ],
+  "http://www.w3.org/2002/07/owl#someValuesFrom" : [ {
+    "@id" : "http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Pamięć"
+  } ]
+}, {
+  "@id" : "_:genid18",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Restriction" ],
+  "http://www.w3.org/2002/07/owl#onProperty" : [ {
+    "@id" : "http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#jestRodzaju"
+  } ],
+  "http://www.w3.org/2002/07/owl#someValuesFrom" : [ {
+    "@id" : "http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Zdrowie"
+  } ]
+}, {
+  "@id" : "_:genid19",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Restriction" ],
+  "http://www.w3.org/2002/07/owl#onProperty" : [ {
+    "@id" : "http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#przeznaczenie"
+  } ],
+  "http://www.w3.org/2002/07/owl#someValuesFrom" : [ {
+    "@id" : "http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#LepszySen"
+  } ]
+}, {
+  "@id" : "_:genid2",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Restriction" ],
+  "http://www.w3.org/2002/07/owl#onProperty" : [ {
+    "@id" : "http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#przeznaczenie"
+  } ],
+  "http://www.w3.org/2002/07/owl#someValuesFrom" : [ {
+    "@id" : "http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Koncentracja"
+  } ]
+}, {
+  "@id" : "_:genid20",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Restriction" ],
+  "http://www.w3.org/2002/07/owl#onProperty" : [ {
+    "@id" : "http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#jestRodzaju"
+  } ],
+  "http://www.w3.org/2002/07/owl#someValuesFrom" : [ {
+    "@id" : "http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Zdrowie"
+  } ]
+}, {
+  "@id" : "_:genid21",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Restriction" ],
+  "http://www.w3.org/2002/07/owl#onProperty" : [ {
+    "@id" : "http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#przeznaczenie"
+  } ],
+  "http://www.w3.org/2002/07/owl#someValuesFrom" : [ {
+    "@id" : "http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Odporność"
+  } ]
+}, {
+  "@id" : "_:genid22",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Restriction" ],
+  "http://www.w3.org/2002/07/owl#onProperty" : [ {
+    "@id" : "http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#przeznaczenie"
+  } ],
+  "http://www.w3.org/2002/07/owl#someValuesFrom" : [ {
+    "@id" : "http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#PracaSerca"
+  } ]
+}, {
+  "@id" : "_:genid23",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Restriction" ],
+  "http://www.w3.org/2002/07/owl#onProperty" : [ {
+    "@id" : "http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#przeznaczenie"
+  } ],
+  "http://www.w3.org/2002/07/owl#someValuesFrom" : [ {
+    "@id" : "http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Stres"
+  } ]
+}, {
+  "@id" : "_:genid24",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Restriction" ],
+  "http://www.w3.org/2002/07/owl#onProperty" : [ {
+    "@id" : "http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#jestRodzaju"
+  } ],
+  "http://www.w3.org/2002/07/owl#someValuesFrom" : [ {
+    "@id" : "http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Zdrowie"
+  } ]
+}, {
+  "@id" : "_:genid25",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Restriction" ],
+  "http://www.w3.org/2002/07/owl#onProperty" : [ {
+    "@id" : "http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#przeznaczenie"
+  } ],
+  "http://www.w3.org/2002/07/owl#someValuesFrom" : [ {
+    "@id" : "http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#DlaWegetarian"
+  } ]
+}, {
+  "@id" : "_:genid26",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Restriction" ],
+  "http://www.w3.org/2002/07/owl#onProperty" : [ {
+    "@id" : "http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#przeznaczenie"
+  } ],
+  "http://www.w3.org/2002/07/owl#someValuesFrom" : [ {
+    "@id" : "http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Pamięć"
+  } ]
+}, {
+  "@id" : "_:genid27",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Restriction" ],
+  "http://www.w3.org/2002/07/owl#onProperty" : [ {
+    "@id" : "http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#przeznaczenie"
+  } ],
+  "http://www.w3.org/2002/07/owl#someValuesFrom" : [ {
+    "@id" : "http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#PracaSerca"
+  } ]
+}, {
+  "@id" : "_:genid28",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Restriction" ],
+  "http://www.w3.org/2002/07/owl#onProperty" : [ {
+    "@id" : "http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#jestRodzaju"
+  } ],
+  "http://www.w3.org/2002/07/owl#someValuesFrom" : [ {
+    "@id" : "http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Zdrowie"
+  } ]
+}, {
+  "@id" : "_:genid29",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Restriction" ],
+  "http://www.w3.org/2002/07/owl#onProperty" : [ {
+    "@id" : "http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#przeznaczenie"
+  } ],
+  "http://www.w3.org/2002/07/owl#someValuesFrom" : [ {
+    "@id" : "http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Pamięć"
+  } ]
+}, {
+  "@id" : "_:genid3",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Restriction" ],
+  "http://www.w3.org/2002/07/owl#onProperty" : [ {
+    "@id" : "http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#przeznaczenie"
+  } ],
+  "http://www.w3.org/2002/07/owl#someValuesFrom" : [ {
+    "@id" : "http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Stres"
+  } ]
+}, {
+  "@id" : "_:genid30",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Restriction" ],
+  "http://www.w3.org/2002/07/owl#onProperty" : [ {
+    "@id" : "http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#jestRodzaju"
+  } ],
+  "http://www.w3.org/2002/07/owl#someValuesFrom" : [ {
+    "@id" : "http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Rodzaj"
+  } ]
+}, {
+  "@id" : "_:genid31",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Restriction" ],
+  "http://www.w3.org/2002/07/owl#onProperty" : [ {
+    "@id" : "http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#przeznaczenie"
+  } ],
+  "http://www.w3.org/2002/07/owl#someValuesFrom" : [ {
+    "@id" : "http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Przeznaczenie"
+  } ]
+}, {
+  "@id" : "_:genid32",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Restriction" ],
+  "http://www.w3.org/2002/07/owl#onProperty" : [ {
+    "@id" : "http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#zawiera"
+  } ],
+  "http://www.w3.org/2002/07/owl#someValuesFrom" : [ {
+    "@id" : "http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Sklad"
+  } ]
+}, {
+  "@id" : "_:genid33",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Restriction" ],
+  "http://www.w3.org/2002/07/owl#onProperty" : [ {
+    "@id" : "http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#jestRodzaju"
+  } ],
+  "http://www.w3.org/2002/07/owl#someValuesFrom" : [ {
+    "@id" : "http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Minerały"
+  } ]
+}, {
+  "@id" : "_:genid34",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Restriction" ],
+  "http://www.w3.org/2002/07/owl#onProperty" : [ {
+    "@id" : "http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#przeznaczenie"
+  } ],
+  "http://www.w3.org/2002/07/owl#someValuesFrom" : [ {
+    "@id" : "http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#DlaWegetarian"
+  } ]
+}, {
+  "@id" : "_:genid35",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Restriction" ],
+  "http://www.w3.org/2002/07/owl#onProperty" : [ {
+    "@id" : "http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#jestRodzaju"
+  } ],
+  "http://www.w3.org/2002/07/owl#someValuesFrom" : [ {
+    "@id" : "http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Witaminy"
+  } ]
+}, {
+  "@id" : "_:genid36",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Restriction" ],
+  "http://www.w3.org/2002/07/owl#onProperty" : [ {
+    "@id" : "http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#przeznaczenie"
+  } ],
+  "http://www.w3.org/2002/07/owl#someValuesFrom" : [ {
+    "@id" : "http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#DlaWegetarian"
+  } ]
+}, {
+  "@id" : "_:genid37",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Restriction" ],
+  "http://www.w3.org/2002/07/owl#onProperty" : [ {
+    "@id" : "http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#jestRodzaju"
+  } ],
+  "http://www.w3.org/2002/07/owl#someValuesFrom" : [ {
+    "@id" : "http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Witaminy"
+  } ]
+}, {
+  "@id" : "_:genid38",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Restriction" ],
+  "http://www.w3.org/2002/07/owl#onProperty" : [ {
+    "@id" : "http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#przeznaczenie"
+  } ],
+  "http://www.w3.org/2002/07/owl#someValuesFrom" : [ {
+    "@id" : "http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#DlaWegan"
+  } ]
+}, {
+  "@id" : "_:genid39",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Restriction" ],
+  "http://www.w3.org/2002/07/owl#onProperty" : [ {
+    "@id" : "http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#przeznaczenie"
+  } ],
+  "http://www.w3.org/2002/07/owl#someValuesFrom" : [ {
+    "@id" : "http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#DlaWegetarian"
+  } ]
+}, {
+  "@id" : "_:genid4",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Restriction" ],
+  "http://www.w3.org/2002/07/owl#onProperty" : [ {
+    "@id" : "http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#jestRodzaju"
+  } ],
+  "http://www.w3.org/2002/07/owl#someValuesFrom" : [ {
+    "@id" : "http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Zdrowie"
+  } ]
+}, {
+  "@id" : "_:genid40",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Restriction" ],
+  "http://www.w3.org/2002/07/owl#onProperty" : [ {
+    "@id" : "http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#jestRodzaju"
+  } ],
+  "http://www.w3.org/2002/07/owl#someValuesFrom" : [ {
+    "@id" : "http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Witaminy"
+  } ]
+}, {
+  "@id" : "_:genid41",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Restriction" ],
+  "http://www.w3.org/2002/07/owl#onProperty" : [ {
+    "@id" : "http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#przeznaczenie"
+  } ],
+  "http://www.w3.org/2002/07/owl#someValuesFrom" : [ {
+    "@id" : "http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Odporność"
+  } ]
+}, {
+  "@id" : "_:genid42",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Restriction" ],
+  "http://www.w3.org/2002/07/owl#onProperty" : [ {
+    "@id" : "http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#jestRodzaju"
+  } ],
+  "http://www.w3.org/2002/07/owl#someValuesFrom" : [ {
+    "@id" : "http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Witaminy"
+  } ]
+}, {
+  "@id" : "_:genid43",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Restriction" ],
+  "http://www.w3.org/2002/07/owl#onProperty" : [ {
+    "@id" : "http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#przeznaczenie"
+  } ],
+  "http://www.w3.org/2002/07/owl#someValuesFrom" : [ {
+    "@id" : "http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#DlaWegan"
+  } ]
+}, {
+  "@id" : "_:genid44",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Restriction" ],
+  "http://www.w3.org/2002/07/owl#onProperty" : [ {
+    "@id" : "http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#przeznaczenie"
+  } ],
+  "http://www.w3.org/2002/07/owl#someValuesFrom" : [ {
+    "@id" : "http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#DlaWegetarian"
+  } ]
+}, {
+  "@id" : "_:genid45",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Restriction" ],
+  "http://www.w3.org/2002/07/owl#onProperty" : [ {
+    "@id" : "http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#jestRodzaju"
+  } ],
+  "http://www.w3.org/2002/07/owl#someValuesFrom" : [ {
+    "@id" : "http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Minerały"
+  } ]
+}, {
+  "@id" : "_:genid46",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Restriction" ],
+  "http://www.w3.org/2002/07/owl#onProperty" : [ {
+    "@id" : "http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#przeznaczenie"
+  } ],
+  "http://www.w3.org/2002/07/owl#someValuesFrom" : [ {
+    "@id" : "http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#DlaWegan"
+  } ]
+}, {
+  "@id" : "_:genid47",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Restriction" ],
+  "http://www.w3.org/2002/07/owl#onProperty" : [ {
+    "@id" : "http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#przeznaczenie"
+  } ],
+  "http://www.w3.org/2002/07/owl#someValuesFrom" : [ {
+    "@id" : "http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#DlaWegetarian"
+  } ]
+}, {
+  "@id" : "_:genid48",
+  "@type" : [ "http://www.w3.org/2002/07/owl#AllDisjointClasses" ],
+  "http://www.w3.org/2002/07/owl#members" : [ {
+    "@list" : [ {
+      "@id" : "http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#DlaWegan"
+    }, {
+      "@id" : "http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#DlaWegetarian"
+    }, {
+      "@id" : "http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#LepszySen"
+    }, {
+      "@id" : "http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#OczyIWzrok"
+    }, {
+      "@id" : "http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Odporność"
+    }, {
+      "@id" : "http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Pamięć"
+    }, {
+      "@id" : "http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#PracaSerca"
+    }, {
+      "@id" : "http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Stawy"
+    }, {
+      "@id" : "http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Stres"
+    }, {
+      "@id" : "http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Trawienie"
+    } ]
+  } ]
+}, {
+  "@id" : "_:genid5",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Restriction" ],
+  "http://www.w3.org/2002/07/owl#onProperty" : [ {
+    "@id" : "http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#przeznaczenie"
+  } ],
+  "http://www.w3.org/2002/07/owl#someValuesFrom" : [ {
+    "@id" : "http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Trawienie"
+  } ]
+}, {
+  "@id" : "_:genid59",
+  "@type" : [ "http://www.w3.org/2002/07/owl#AllDisjointClasses" ],
+  "http://www.w3.org/2002/07/owl#members" : [ {
+    "@list" : [ {
+      "@id" : "http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Minerały"
+    }, {
+      "@id" : "http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Witaminy"
+    }, {
+      "@id" : "http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Zdrowie"
+    } ]
+  } ]
+}, {
+  "@id" : "_:genid6",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Restriction" ],
+  "http://www.w3.org/2002/07/owl#onProperty" : [ {
+    "@id" : "http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#jestRodzaju"
+  } ],
+  "http://www.w3.org/2002/07/owl#someValuesFrom" : [ {
+    "@id" : "http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Minerały"
+  } ]
+}, {
+  "@id" : "_:genid63",
+  "@type" : [ "http://www.w3.org/2002/07/owl#AllDisjointClasses" ],
+  "http://www.w3.org/2002/07/owl#members" : [ {
+    "@list" : [ {
+      "@id" : "http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Przeznaczenie"
+    }, {
+      "@id" : "http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Rodzaj"
+    }, {
+      "@id" : "http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Sklad"
+    }, {
+      "@id" : "http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Suplement"
+    } ]
+  } ]
+}, {
+  "@id" : "_:genid7",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Restriction" ],
+  "http://www.w3.org/2002/07/owl#onProperty" : [ {
+    "@id" : "http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#przeznaczenie"
+  } ],
+  "http://www.w3.org/2002/07/owl#someValuesFrom" : [ {
+    "@id" : "http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#DlaWegan"
+  } ]
+}, {
+  "@id" : "_:genid8",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Restriction" ],
+  "http://www.w3.org/2002/07/owl#onProperty" : [ {
+    "@id" : "http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#jestRodzaju"
+  } ],
+  "http://www.w3.org/2002/07/owl#someValuesFrom" : [ {
+    "@id" : "http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Zdrowie"
+  } ]
+}, {
+  "@id" : "_:genid9",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Restriction" ],
+  "http://www.w3.org/2002/07/owl#onProperty" : [ {
+    "@id" : "http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#przeznaczenie"
+  } ],
+  "http://www.w3.org/2002/07/owl#someValuesFrom" : [ {
+    "@id" : "http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Pobudzenie"
+  } ]
+}, {
+  "@id" : "http://www.semanticweb.org/user/ontologies/2022/11/suplementy",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Ontology" ]
+}, {
+  "@id" : "http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Ashwagandha",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
+  "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
+    "@id" : "http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Suplement"
+  }, {
+    "@id" : "_:genid1"
+  }, {
+    "@id" : "_:genid2"
+  }, {
+    "@id" : "_:genid3"
+  } ]
+}, {
+  "@id" : "http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Berberyna",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
+  "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
+    "@id" : "http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Suplement"
+  }, {
+    "@id" : "_:genid4"
+  }, {
+    "@id" : "_:genid5"
+  } ]
+}, {
+  "@id" : "http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Cynk",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
+  "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
+    "@id" : "http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Suplement"
+  }, {
+    "@id" : "_:genid6"
+  }, {
+    "@id" : "_:genid7"
+  } ]
+}, {
+  "@id" : "http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#DlaWegan",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
+  "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
+    "@id" : "http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Przeznaczenie"
+  } ]
+}, {
+  "@id" : "http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#DlaWegetarian",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
+  "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
+    "@id" : "http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Przeznaczenie"
+  } ]
+}, {
+  "@id" : "http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Kofeina",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
+  "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
+    "@id" : "http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Sklad"
+  } ]
+}, {
+  "@id" : "http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Kofeina-tabletki",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
+  "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
+    "@id" : "http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Suplement"
+  }, {
+    "@id" : "_:genid8"
+  }, {
+    "@id" : "_:genid9"
+  }, {
+    "@id" : "_:genid10"
+  } ]
+}, {
+  "@id" : "http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Kolagen",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
+  "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
+    "@id" : "http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Suplement"
+  }, {
+    "@id" : "_:genid11"
+  }, {
+    "@id" : "_:genid12"
+  } ]
+}, {
+  "@id" : "http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Koncentracja",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
+  "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
+    "@id" : "http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Przeznaczenie"
+  } ]
+}, {
+  "@id" : "http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#LepszySen",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
+  "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
+    "@id" : "http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Przeznaczenie"
+  } ]
+}, {
+  "@id" : "http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Luteina",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
+  "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
+    "@id" : "http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Suplement"
+  }, {
+    "@id" : "_:genid13"
+  }, {
+    "@id" : "_:genid14"
+  } ]
+}, {
+  "@id" : "http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Magnez",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
+  "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
+    "@id" : "http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Suplement"
+  }, {
+    "@id" : "_:genid15"
+  }, {
+    "@id" : "_:genid16"
+  }, {
+    "@id" : "_:genid17"
+  } ]
+}, {
+  "@id" : "http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Melatonina",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
+  "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
+    "@id" : "http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Suplement"
+  }, {
+    "@id" : "_:genid18"
+  }, {
+    "@id" : "_:genid19"
+  } ]
+}, {
+  "@id" : "http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Minerały",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
+  "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
+    "@id" : "http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Rodzaj"
+  } ]
+}, {
+  "@id" : "http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#OczyIWzrok",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
+  "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
+    "@id" : "http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Przeznaczenie"
+  } ]
+}, {
+  "@id" : "http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Odporność",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
+  "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
+    "@id" : "http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Przeznaczenie"
+  } ]
+}, {
+  "@id" : "http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Olejek_CBD",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
+  "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
+    "@id" : "http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Suplement"
+  }, {
+    "@id" : "_:genid20"
+  }, {
+    "@id" : "_:genid21"
+  }, {
+    "@id" : "_:genid22"
+  }, {
+    "@id" : "_:genid23"
+  } ]
+}, {
+  "@id" : "http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Omega_3",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
+  "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
+    "@id" : "http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Suplement"
+  }, {
+    "@id" : "_:genid24"
+  }, {
+    "@id" : "_:genid25"
+  }, {
+    "@id" : "_:genid26"
+  }, {
+    "@id" : "_:genid27"
+  } ]
+}, {
+  "@id" : "http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Pamięć",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
+  "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
+    "@id" : "http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Przeznaczenie"
+  } ]
+}, {
+  "@id" : "http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Pobudzenie",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
+  "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
+    "@id" : "http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Przeznaczenie"
+  } ]
+}, {
+  "@id" : "http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#PracaSerca",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
+  "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
+    "@id" : "http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Przeznaczenie"
+  } ]
+}, {
+  "@id" : "http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Przeznaczenie",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ]
+}, {
+  "@id" : "http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Rhodiola_Rosea",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
+  "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
+    "@id" : "http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Suplement"
+  }, {
+    "@id" : "_:genid28"
+  }, {
+    "@id" : "_:genid29"
+  } ]
+}, {
+  "@id" : "http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Rodzaj",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ]
+}, {
+  "@id" : "http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Sklad",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ]
+}, {
+  "@id" : "http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Stawy",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
+  "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
+    "@id" : "http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Przeznaczenie"
+  } ]
+}, {
+  "@id" : "http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Stres",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
+  "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
+    "@id" : "http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Przeznaczenie"
+  } ]
+}, {
+  "@id" : "http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Suplement",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
+  "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
+    "@id" : "_:genid30"
+  }, {
+    "@id" : "_:genid31"
+  }, {
+    "@id" : "_:genid32"
+  } ]
+}, {
+  "@id" : "http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Trawienie",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
+  "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
+    "@id" : "http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Przeznaczenie"
+  } ]
+}, {
+  "@id" : "http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Wapń",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
+  "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
+    "@id" : "http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Suplement"
+  }, {
+    "@id" : "_:genid33"
+  }, {
+    "@id" : "_:genid34"
+  } ]
+}, {
+  "@id" : "http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Witamina_A",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
+  "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
+    "@id" : "http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Suplement"
+  }, {
+    "@id" : "_:genid35"
+  }, {
+    "@id" : "_:genid36"
+  } ]
+}, {
+  "@id" : "http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Witamina_B12",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
+  "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
+    "@id" : "http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Suplement"
+  }, {
+    "@id" : "_:genid37"
+  }, {
+    "@id" : "_:genid38"
+  }, {
+    "@id" : "_:genid39"
+  } ]
+}, {
+  "@id" : "http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Witamina_C",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
+  "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
+    "@id" : "http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Suplement"
+  }, {
+    "@id" : "_:genid40"
+  }, {
+    "@id" : "_:genid41"
+  } ]
+}, {
+  "@id" : "http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Witamina_D",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
+  "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
+    "@id" : "http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Suplement"
+  }, {
+    "@id" : "_:genid42"
+  }, {
+    "@id" : "_:genid43"
+  }, {
+    "@id" : "_:genid44"
+  } ]
+}, {
+  "@id" : "http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Witaminy",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
+  "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
+    "@id" : "http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Rodzaj"
+  } ]
+}, {
+  "@id" : "http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Zdrowie",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
+  "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
+    "@id" : "http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Rodzaj"
+  } ]
+}, {
+  "@id" : "http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#jestRodzaju",
+  "@type" : [ "http://www.w3.org/2002/07/owl#ObjectProperty", "http://www.w3.org/2002/07/owl#FunctionalProperty" ],
+  "http://www.w3.org/2000/01/rdf-schema#domain" : [ {
+    "@id" : "http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Suplement"
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#range" : [ {
+    "@id" : "http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Rodzaj"
+  } ]
+}, {
+  "@id" : "http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#przeznaczenie",
+  "@type" : [ "http://www.w3.org/2002/07/owl#ObjectProperty" ],
+  "http://www.w3.org/2000/01/rdf-schema#domain" : [ {
+    "@id" : "http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Suplement"
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#range" : [ {
+    "@id" : "http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Przeznaczenie"
+  } ]
+}, {
+  "@id" : "http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#zawiera",
+  "@type" : [ "http://www.w3.org/2002/07/owl#ObjectProperty" ],
+  "http://www.w3.org/2000/01/rdf-schema#domain" : [ {
+    "@id" : "http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Suplement"
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#range" : [ {
+    "@id" : "http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Sklad"
+  } ]
+}, {
+  "@id" : "http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Żelazo",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
+  "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
+    "@id" : "http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Suplement"
+  }, {
+    "@id" : "_:genid45"
+  }, {
+    "@id" : "_:genid46"
+  }, {
+    "@id" : "_:genid47"
+  } ]
+} ]

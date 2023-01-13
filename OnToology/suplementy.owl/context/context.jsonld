@@ -1,0 +1,127 @@
+{
+  "@context" : {
+    "Ashwagandha" : {
+      "@id" : "http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Ashwagandha"
+    },
+    "Witamina_B12" : {
+      "@id" : "http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Witamina_B12"
+    },
+    "przeznaczenie" : {
+      "@id" : "http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#przeznaczenie",
+      "@type" : "@id"
+    },
+    "DlaWegan" : {
+      "@id" : "http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#DlaWegan"
+    },
+    "Omega_3" : {
+      "@id" : "http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Omega_3"
+    },
+    "Cynk" : {
+      "@id" : "http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Cynk"
+    },
+    "Suplement" : {
+      "@id" : "http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Suplement"
+    },
+    "Zdrowie" : {
+      "@id" : "http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Zdrowie"
+    },
+    "Kofeina" : {
+      "@id" : "http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Kofeina"
+    },
+    "Sklad" : {
+      "@id" : "http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Sklad"
+    },
+    "Żelazo" : {
+      "@id" : "http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Żelazo"
+    },
+    "zawiera" : {
+      "@id" : "http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#zawiera",
+      "@type" : "@id"
+    },
+    "Stres" : {
+      "@id" : "http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Stres"
+    },
+    "Pamięć" : {
+      "@id" : "http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Pamięć"
+    },
+    "PracaSerca" : {
+      "@id" : "http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#PracaSerca"
+    },
+    "Odporność" : {
+      "@id" : "http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Odporność"
+    },
+    "Minerały" : {
+      "@id" : "http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Minerały"
+    },
+    "Witaminy" : {
+      "@id" : "http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Witaminy"
+    },
+    "Pobudzenie" : {
+      "@id" : "http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Pobudzenie"
+    },
+    "Witamina_A" : {
+      "@id" : "http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Witamina_A"
+    },
+    "Kolagen" : {
+      "@id" : "http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Kolagen"
+    },
+    "Witamina_D" : {
+      "@id" : "http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Witamina_D"
+    },
+    "Berberyna" : {
+      "@id" : "http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Berberyna"
+    },
+    "Kofeina-tabletki" : {
+      "@id" : "http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Kofeina-tabletki"
+    },
+    "Witamina_C" : {
+      "@id" : "http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Witamina_C"
+    },
+    "DlaWegetarian" : {
+      "@id" : "http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#DlaWegetarian"
+    },
+    "OczyIWzrok" : {
+      "@id" : "http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#OczyIWzrok"
+    },
+    "Luteina" : {
+      "@id" : "http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Luteina"
+    },
+    "Stawy" : {
+      "@id" : "http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Stawy"
+    },
+    "LepszySen" : {
+      "@id" : "http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#LepszySen"
+    },
+    "Trawienie" : {
+      "@id" : "http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Trawienie"
+    },
+    "Przeznaczenie" : {
+      "@id" : "http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Przeznaczenie"
+    },
+    "Koncentracja" : {
+      "@id" : "http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Koncentracja"
+    },
+    "Rodzaj" : {
+      "@id" : "http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Rodzaj"
+    },
+    "Olejek_CBD" : {
+      "@id" : "http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Olejek_CBD"
+    },
+    "Magnez" : {
+      "@id" : "http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Magnez"
+    },
+    "Melatonina" : {
+      "@id" : "http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Melatonina"
+    },
+    "jestRodzaju" : {
+      "@id" : "http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#jestRodzaju",
+      "@type" : "@id"
+    },
+    "Rhodiola_Rosea" : {
+      "@id" : "http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Rhodiola_Rosea"
+    },
+    "Wapń" : {
+      "@id" : "http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Wapń"
+    }
+  }
+}
