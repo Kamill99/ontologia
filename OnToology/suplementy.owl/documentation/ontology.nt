@@ -1,0 +1,437 @@
+<http://www.semanticweb.org/user/ontologies/2022/11/suplementy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Ontology> .
+# 
+# 
+# #################################################################
+# #
+# #    Object Properties
+# #
+# #################################################################
+# 
+# 
+# http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#jestRodzaju
+<http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#jestRodzaju> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#jestRodzaju> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#FunctionalProperty> .
+<http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#jestRodzaju> <http://www.w3.org/2000/01/rdf-schema#domain> <http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Suplement> .
+<http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#jestRodzaju> <http://www.w3.org/2000/01/rdf-schema#range> <http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Rodzaj> .
+# 
+# http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#przeznaczenie
+<http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#przeznaczenie> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#przeznaczenie> <http://www.w3.org/2000/01/rdf-schema#domain> <http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Suplement> .
+<http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#przeznaczenie> <http://www.w3.org/2000/01/rdf-schema#range> <http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Przeznaczenie> .
+# 
+# http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#zawiera
+<http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#zawiera> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#zawiera> <http://www.w3.org/2000/01/rdf-schema#domain> <http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Suplement> .
+<http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#zawiera> <http://www.w3.org/2000/01/rdf-schema#range> <http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Sklad> .
+# 
+# 
+# 
+# #################################################################
+# #
+# #    Classes
+# #
+# #################################################################
+# 
+# 
+# http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Ashwagandha
+<http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Ashwagandha> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Ashwagandha> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Suplement> .
+<http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Ashwagandha> <http://www.w3.org/2000/01/rdf-schema#subClassOf> _:genid1 .
+_:genid1 <http://www.w3.org/2002/07/owl#someValuesFrom> <http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Zdrowie> .
+_:genid1 <http://www.w3.org/2002/07/owl#onProperty> <http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#jestRodzaju> .
+_:genid1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+<http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Ashwagandha> <http://www.w3.org/2000/01/rdf-schema#subClassOf> _:genid2 .
+_:genid2 <http://www.w3.org/2002/07/owl#someValuesFrom> <http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Koncentracja> .
+_:genid2 <http://www.w3.org/2002/07/owl#onProperty> <http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#przeznaczenie> .
+_:genid2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+<http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Ashwagandha> <http://www.w3.org/2000/01/rdf-schema#subClassOf> _:genid3 .
+_:genid3 <http://www.w3.org/2002/07/owl#someValuesFrom> <http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Stres> .
+_:genid3 <http://www.w3.org/2002/07/owl#onProperty> <http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#przeznaczenie> .
+_:genid3 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+# 
+# http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Berberyna
+<http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Berberyna> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Berberyna> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Suplement> .
+<http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Berberyna> <http://www.w3.org/2000/01/rdf-schema#subClassOf> _:genid4 .
+_:genid4 <http://www.w3.org/2002/07/owl#someValuesFrom> <http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Zdrowie> .
+_:genid4 <http://www.w3.org/2002/07/owl#onProperty> <http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#jestRodzaju> .
+_:genid4 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+<http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Berberyna> <http://www.w3.org/2000/01/rdf-schema#subClassOf> _:genid5 .
+_:genid5 <http://www.w3.org/2002/07/owl#someValuesFrom> <http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Trawienie> .
+_:genid5 <http://www.w3.org/2002/07/owl#onProperty> <http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#przeznaczenie> .
+_:genid5 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+# 
+# http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Cynk
+<http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Cynk> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Cynk> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Suplement> .
+<http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Cynk> <http://www.w3.org/2000/01/rdf-schema#subClassOf> _:genid6 .
+_:genid6 <http://www.w3.org/2002/07/owl#someValuesFrom> <http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Minerały> .
+_:genid6 <http://www.w3.org/2002/07/owl#onProperty> <http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#jestRodzaju> .
+_:genid6 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+<http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Cynk> <http://www.w3.org/2000/01/rdf-schema#subClassOf> _:genid7 .
+_:genid7 <http://www.w3.org/2002/07/owl#someValuesFrom> <http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#DlaWegan> .
+_:genid7 <http://www.w3.org/2002/07/owl#onProperty> <http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#przeznaczenie> .
+_:genid7 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+# 
+# http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#DlaWegan
+<http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#DlaWegan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#DlaWegan> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Przeznaczenie> .
+# 
+# http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#DlaWegetarian
+<http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#DlaWegetarian> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#DlaWegetarian> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Przeznaczenie> .
+# 
+# http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Kofeina
+<http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Kofeina> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Kofeina> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Sklad> .
+# 
+# http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Kofeina-tabletki
+<http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Kofeina-tabletki> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Kofeina-tabletki> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Suplement> .
+<http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Kofeina-tabletki> <http://www.w3.org/2000/01/rdf-schema#subClassOf> _:genid8 .
+_:genid8 <http://www.w3.org/2002/07/owl#someValuesFrom> <http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Zdrowie> .
+_:genid8 <http://www.w3.org/2002/07/owl#onProperty> <http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#jestRodzaju> .
+_:genid8 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+<http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Kofeina-tabletki> <http://www.w3.org/2000/01/rdf-schema#subClassOf> _:genid9 .
+_:genid9 <http://www.w3.org/2002/07/owl#someValuesFrom> <http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Pobudzenie> .
+_:genid9 <http://www.w3.org/2002/07/owl#onProperty> <http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#przeznaczenie> .
+_:genid9 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+<http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Kofeina-tabletki> <http://www.w3.org/2000/01/rdf-schema#subClassOf> _:genid10 .
+_:genid10 <http://www.w3.org/2002/07/owl#someValuesFrom> <http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Kofeina> .
+_:genid10 <http://www.w3.org/2002/07/owl#onProperty> <http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#zawiera> .
+_:genid10 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+# 
+# http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Kolagen
+<http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Kolagen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Kolagen> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Suplement> .
+<http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Kolagen> <http://www.w3.org/2000/01/rdf-schema#subClassOf> _:genid11 .
+_:genid11 <http://www.w3.org/2002/07/owl#someValuesFrom> <http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Zdrowie> .
+_:genid11 <http://www.w3.org/2002/07/owl#onProperty> <http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#jestRodzaju> .
+_:genid11 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+<http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Kolagen> <http://www.w3.org/2000/01/rdf-schema#subClassOf> _:genid12 .
+_:genid12 <http://www.w3.org/2002/07/owl#someValuesFrom> <http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Stawy> .
+_:genid12 <http://www.w3.org/2002/07/owl#onProperty> <http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#przeznaczenie> .
+_:genid12 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+# 
+# http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Koncentracja
+<http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Koncentracja> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Koncentracja> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Przeznaczenie> .
+# 
+# http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#LepszySen
+<http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#LepszySen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#LepszySen> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Przeznaczenie> .
+# 
+# http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Luteina
+<http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Luteina> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Luteina> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Suplement> .
+<http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Luteina> <http://www.w3.org/2000/01/rdf-schema#subClassOf> _:genid13 .
+_:genid13 <http://www.w3.org/2002/07/owl#someValuesFrom> <http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Zdrowie> .
+_:genid13 <http://www.w3.org/2002/07/owl#onProperty> <http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#jestRodzaju> .
+_:genid13 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+<http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Luteina> <http://www.w3.org/2000/01/rdf-schema#subClassOf> _:genid14 .
+_:genid14 <http://www.w3.org/2002/07/owl#someValuesFrom> <http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#OczyIWzrok> .
+_:genid14 <http://www.w3.org/2002/07/owl#onProperty> <http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#przeznaczenie> .
+_:genid14 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+# 
+# http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Magnez
+<http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Magnez> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Magnez> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Suplement> .
+<http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Magnez> <http://www.w3.org/2000/01/rdf-schema#subClassOf> _:genid15 .
+_:genid15 <http://www.w3.org/2002/07/owl#someValuesFrom> <http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Minerały> .
+_:genid15 <http://www.w3.org/2002/07/owl#onProperty> <http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#jestRodzaju> .
+_:genid15 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+<http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Magnez> <http://www.w3.org/2000/01/rdf-schema#subClassOf> _:genid16 .
+_:genid16 <http://www.w3.org/2002/07/owl#someValuesFrom> <http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#DlaWegetarian> .
+_:genid16 <http://www.w3.org/2002/07/owl#onProperty> <http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#przeznaczenie> .
+_:genid16 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+<http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Magnez> <http://www.w3.org/2000/01/rdf-schema#subClassOf> _:genid17 .
+_:genid17 <http://www.w3.org/2002/07/owl#someValuesFrom> <http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Pamięć> .
+_:genid17 <http://www.w3.org/2002/07/owl#onProperty> <http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#przeznaczenie> .
+_:genid17 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+# 
+# http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Melatonina
+<http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Melatonina> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Melatonina> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Suplement> .
+<http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Melatonina> <http://www.w3.org/2000/01/rdf-schema#subClassOf> _:genid18 .
+_:genid18 <http://www.w3.org/2002/07/owl#someValuesFrom> <http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Zdrowie> .
+_:genid18 <http://www.w3.org/2002/07/owl#onProperty> <http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#jestRodzaju> .
+_:genid18 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+<http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Melatonina> <http://www.w3.org/2000/01/rdf-schema#subClassOf> _:genid19 .
+_:genid19 <http://www.w3.org/2002/07/owl#someValuesFrom> <http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#LepszySen> .
+_:genid19 <http://www.w3.org/2002/07/owl#onProperty> <http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#przeznaczenie> .
+_:genid19 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+# 
+# http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Minerały
+<http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Minerały> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Minerały> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Rodzaj> .
+# 
+# http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#OczyIWzrok
+<http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#OczyIWzrok> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#OczyIWzrok> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Przeznaczenie> .
+# 
+# http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Odporność
+<http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Odporność> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Odporność> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Przeznaczenie> .
+# 
+# http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Olejek_CBD
+<http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Olejek_CBD> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Olejek_CBD> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Suplement> .
+<http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Olejek_CBD> <http://www.w3.org/2000/01/rdf-schema#subClassOf> _:genid20 .
+_:genid20 <http://www.w3.org/2002/07/owl#someValuesFrom> <http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Zdrowie> .
+_:genid20 <http://www.w3.org/2002/07/owl#onProperty> <http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#jestRodzaju> .
+_:genid20 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+<http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Olejek_CBD> <http://www.w3.org/2000/01/rdf-schema#subClassOf> _:genid21 .
+_:genid21 <http://www.w3.org/2002/07/owl#someValuesFrom> <http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Odporność> .
+_:genid21 <http://www.w3.org/2002/07/owl#onProperty> <http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#przeznaczenie> .
+_:genid21 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+<http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Olejek_CBD> <http://www.w3.org/2000/01/rdf-schema#subClassOf> _:genid22 .
+_:genid22 <http://www.w3.org/2002/07/owl#someValuesFrom> <http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#PracaSerca> .
+_:genid22 <http://www.w3.org/2002/07/owl#onProperty> <http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#przeznaczenie> .
+_:genid22 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+<http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Olejek_CBD> <http://www.w3.org/2000/01/rdf-schema#subClassOf> _:genid23 .
+_:genid23 <http://www.w3.org/2002/07/owl#someValuesFrom> <http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Stres> .
+_:genid23 <http://www.w3.org/2002/07/owl#onProperty> <http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#przeznaczenie> .
+_:genid23 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+# 
+# http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Omega_3
+<http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Omega_3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Omega_3> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Suplement> .
+<http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Omega_3> <http://www.w3.org/2000/01/rdf-schema#subClassOf> _:genid24 .
+_:genid24 <http://www.w3.org/2002/07/owl#someValuesFrom> <http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Zdrowie> .
+_:genid24 <http://www.w3.org/2002/07/owl#onProperty> <http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#jestRodzaju> .
+_:genid24 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+<http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Omega_3> <http://www.w3.org/2000/01/rdf-schema#subClassOf> _:genid25 .
+_:genid25 <http://www.w3.org/2002/07/owl#someValuesFrom> <http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#DlaWegetarian> .
+_:genid25 <http://www.w3.org/2002/07/owl#onProperty> <http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#przeznaczenie> .
+_:genid25 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+<http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Omega_3> <http://www.w3.org/2000/01/rdf-schema#subClassOf> _:genid26 .
+_:genid26 <http://www.w3.org/2002/07/owl#someValuesFrom> <http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Pamięć> .
+_:genid26 <http://www.w3.org/2002/07/owl#onProperty> <http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#przeznaczenie> .
+_:genid26 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+<http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Omega_3> <http://www.w3.org/2000/01/rdf-schema#subClassOf> _:genid27 .
+_:genid27 <http://www.w3.org/2002/07/owl#someValuesFrom> <http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#PracaSerca> .
+_:genid27 <http://www.w3.org/2002/07/owl#onProperty> <http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#przeznaczenie> .
+_:genid27 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+# 
+# http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Pamięć
+<http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Pamięć> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Pamięć> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Przeznaczenie> .
+# 
+# http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Pobudzenie
+<http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Pobudzenie> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Pobudzenie> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Przeznaczenie> .
+# 
+# http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#PracaSerca
+<http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#PracaSerca> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#PracaSerca> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Przeznaczenie> .
+# 
+# http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Przeznaczenie
+<http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Przeznaczenie> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+# 
+# http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Rhodiola_Rosea
+<http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Rhodiola_Rosea> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Rhodiola_Rosea> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Suplement> .
+<http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Rhodiola_Rosea> <http://www.w3.org/2000/01/rdf-schema#subClassOf> _:genid28 .
+_:genid28 <http://www.w3.org/2002/07/owl#someValuesFrom> <http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Zdrowie> .
+_:genid28 <http://www.w3.org/2002/07/owl#onProperty> <http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#jestRodzaju> .
+_:genid28 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+<http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Rhodiola_Rosea> <http://www.w3.org/2000/01/rdf-schema#subClassOf> _:genid29 .
+_:genid29 <http://www.w3.org/2002/07/owl#someValuesFrom> <http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Pamięć> .
+_:genid29 <http://www.w3.org/2002/07/owl#onProperty> <http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#przeznaczenie> .
+_:genid29 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+# 
+# http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Rodzaj
+<http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Rodzaj> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+# 
+# http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Sklad
+<http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Sklad> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+# 
+# http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Stawy
+<http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Stawy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Stawy> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Przeznaczenie> .
+# 
+# http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Stres
+<http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Stres> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Stres> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Przeznaczenie> .
+# 
+# http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Suplement
+<http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Suplement> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Suplement> <http://www.w3.org/2000/01/rdf-schema#subClassOf> _:genid30 .
+_:genid30 <http://www.w3.org/2002/07/owl#someValuesFrom> <http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Rodzaj> .
+_:genid30 <http://www.w3.org/2002/07/owl#onProperty> <http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#jestRodzaju> .
+_:genid30 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+<http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Suplement> <http://www.w3.org/2000/01/rdf-schema#subClassOf> _:genid31 .
+_:genid31 <http://www.w3.org/2002/07/owl#someValuesFrom> <http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Przeznaczenie> .
+_:genid31 <http://www.w3.org/2002/07/owl#onProperty> <http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#przeznaczenie> .
+_:genid31 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+<http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Suplement> <http://www.w3.org/2000/01/rdf-schema#subClassOf> _:genid32 .
+_:genid32 <http://www.w3.org/2002/07/owl#someValuesFrom> <http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Sklad> .
+_:genid32 <http://www.w3.org/2002/07/owl#onProperty> <http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#zawiera> .
+_:genid32 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+# 
+# http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Trawienie
+<http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Trawienie> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Trawienie> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Przeznaczenie> .
+# 
+# http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Wapń
+<http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Wapń> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Wapń> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Suplement> .
+<http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Wapń> <http://www.w3.org/2000/01/rdf-schema#subClassOf> _:genid33 .
+_:genid33 <http://www.w3.org/2002/07/owl#someValuesFrom> <http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Minerały> .
+_:genid33 <http://www.w3.org/2002/07/owl#onProperty> <http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#jestRodzaju> .
+_:genid33 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+<http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Wapń> <http://www.w3.org/2000/01/rdf-schema#subClassOf> _:genid34 .
+_:genid34 <http://www.w3.org/2002/07/owl#someValuesFrom> <http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#DlaWegetarian> .
+_:genid34 <http://www.w3.org/2002/07/owl#onProperty> <http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#przeznaczenie> .
+_:genid34 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+# 
+# http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Witamina_A
+<http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Witamina_A> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Witamina_A> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Suplement> .
+<http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Witamina_A> <http://www.w3.org/2000/01/rdf-schema#subClassOf> _:genid35 .
+_:genid35 <http://www.w3.org/2002/07/owl#someValuesFrom> <http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Witaminy> .
+_:genid35 <http://www.w3.org/2002/07/owl#onProperty> <http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#jestRodzaju> .
+_:genid35 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+<http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Witamina_A> <http://www.w3.org/2000/01/rdf-schema#subClassOf> _:genid36 .
+_:genid36 <http://www.w3.org/2002/07/owl#someValuesFrom> <http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#DlaWegetarian> .
+_:genid36 <http://www.w3.org/2002/07/owl#onProperty> <http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#przeznaczenie> .
+_:genid36 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+# 
+# http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Witamina_B12
+<http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Witamina_B12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Witamina_B12> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Suplement> .
+<http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Witamina_B12> <http://www.w3.org/2000/01/rdf-schema#subClassOf> _:genid37 .
+_:genid37 <http://www.w3.org/2002/07/owl#someValuesFrom> <http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Witaminy> .
+_:genid37 <http://www.w3.org/2002/07/owl#onProperty> <http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#jestRodzaju> .
+_:genid37 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+<http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Witamina_B12> <http://www.w3.org/2000/01/rdf-schema#subClassOf> _:genid38 .
+_:genid38 <http://www.w3.org/2002/07/owl#someValuesFrom> <http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#DlaWegan> .
+_:genid38 <http://www.w3.org/2002/07/owl#onProperty> <http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#przeznaczenie> .
+_:genid38 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+<http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Witamina_B12> <http://www.w3.org/2000/01/rdf-schema#subClassOf> _:genid39 .
+_:genid39 <http://www.w3.org/2002/07/owl#someValuesFrom> <http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#DlaWegetarian> .
+_:genid39 <http://www.w3.org/2002/07/owl#onProperty> <http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#przeznaczenie> .
+_:genid39 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+# 
+# http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Witamina_C
+<http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Witamina_C> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Witamina_C> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Suplement> .
+<http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Witamina_C> <http://www.w3.org/2000/01/rdf-schema#subClassOf> _:genid40 .
+_:genid40 <http://www.w3.org/2002/07/owl#someValuesFrom> <http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Witaminy> .
+_:genid40 <http://www.w3.org/2002/07/owl#onProperty> <http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#jestRodzaju> .
+_:genid40 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+<http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Witamina_C> <http://www.w3.org/2000/01/rdf-schema#subClassOf> _:genid41 .
+_:genid41 <http://www.w3.org/2002/07/owl#someValuesFrom> <http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Odporność> .
+_:genid41 <http://www.w3.org/2002/07/owl#onProperty> <http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#przeznaczenie> .
+_:genid41 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+# 
+# http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Witamina_D
+<http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Witamina_D> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Witamina_D> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Suplement> .
+<http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Witamina_D> <http://www.w3.org/2000/01/rdf-schema#subClassOf> _:genid42 .
+_:genid42 <http://www.w3.org/2002/07/owl#someValuesFrom> <http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Witaminy> .
+_:genid42 <http://www.w3.org/2002/07/owl#onProperty> <http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#jestRodzaju> .
+_:genid42 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+<http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Witamina_D> <http://www.w3.org/2000/01/rdf-schema#subClassOf> _:genid43 .
+_:genid43 <http://www.w3.org/2002/07/owl#someValuesFrom> <http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#DlaWegan> .
+_:genid43 <http://www.w3.org/2002/07/owl#onProperty> <http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#przeznaczenie> .
+_:genid43 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+<http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Witamina_D> <http://www.w3.org/2000/01/rdf-schema#subClassOf> _:genid44 .
+_:genid44 <http://www.w3.org/2002/07/owl#someValuesFrom> <http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#DlaWegetarian> .
+_:genid44 <http://www.w3.org/2002/07/owl#onProperty> <http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#przeznaczenie> .
+_:genid44 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+# 
+# http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Witaminy
+<http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Witaminy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Witaminy> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Rodzaj> .
+# 
+# http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Zdrowie
+<http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Zdrowie> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Zdrowie> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Rodzaj> .
+# 
+# http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Żelazo
+<http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Żelazo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Żelazo> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Suplement> .
+<http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Żelazo> <http://www.w3.org/2000/01/rdf-schema#subClassOf> _:genid45 .
+_:genid45 <http://www.w3.org/2002/07/owl#someValuesFrom> <http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Minerały> .
+_:genid45 <http://www.w3.org/2002/07/owl#onProperty> <http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#jestRodzaju> .
+_:genid45 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+<http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Żelazo> <http://www.w3.org/2000/01/rdf-schema#subClassOf> _:genid46 .
+_:genid46 <http://www.w3.org/2002/07/owl#someValuesFrom> <http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#DlaWegan> .
+_:genid46 <http://www.w3.org/2002/07/owl#onProperty> <http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#przeznaczenie> .
+_:genid46 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+<http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Żelazo> <http://www.w3.org/2000/01/rdf-schema#subClassOf> _:genid47 .
+_:genid47 <http://www.w3.org/2002/07/owl#someValuesFrom> <http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#DlaWegetarian> .
+_:genid47 <http://www.w3.org/2002/07/owl#onProperty> <http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#przeznaczenie> .
+_:genid47 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+# 
+# 
+# 
+# #################################################################
+# #
+# #    General axioms
+# #
+# #################################################################
+# 
+# 
+_:genid48 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AllDisjointClasses> .
+_:genid48 <http://www.w3.org/2002/07/owl#members> _:genid58 .
+_:genid58 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:genid57 .
+_:genid57 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:genid56 .
+_:genid56 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:genid55 .
+_:genid55 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:genid54 .
+_:genid54 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:genid53 .
+_:genid53 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:genid52 .
+_:genid52 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:genid51 .
+_:genid51 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:genid50 .
+_:genid50 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:genid49 .
+_:genid49 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
+_:genid49 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Trawienie> .
+_:genid49 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#List> .
+_:genid50 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Stres> .
+_:genid50 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#List> .
+_:genid51 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Stawy> .
+_:genid51 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#List> .
+_:genid52 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#PracaSerca> .
+_:genid52 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#List> .
+_:genid53 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Pamięć> .
+_:genid53 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#List> .
+_:genid54 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Odporność> .
+_:genid54 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#List> .
+_:genid55 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#OczyIWzrok> .
+_:genid55 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#List> .
+_:genid56 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#LepszySen> .
+_:genid56 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#List> .
+_:genid57 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#DlaWegetarian> .
+_:genid57 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#List> .
+_:genid58 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#DlaWegan> .
+_:genid58 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#List> .
+# 
+_:genid59 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AllDisjointClasses> .
+_:genid59 <http://www.w3.org/2002/07/owl#members> _:genid62 .
+_:genid62 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:genid61 .
+_:genid61 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:genid60 .
+_:genid60 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
+_:genid60 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Zdrowie> .
+_:genid60 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#List> .
+_:genid61 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Witaminy> .
+_:genid61 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#List> .
+_:genid62 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Minerały> .
+_:genid62 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#List> .
+# 
+_:genid63 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AllDisjointClasses> .
+_:genid63 <http://www.w3.org/2002/07/owl#members> _:genid67 .
+_:genid67 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:genid66 .
+_:genid66 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:genid65 .
+_:genid65 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:genid64 .
+_:genid64 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
+_:genid64 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Suplement> .
+_:genid64 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#List> .
+_:genid65 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Sklad> .
+_:genid65 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#List> .
+_:genid66 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Rodzaj> .
+_:genid66 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#List> .
+_:genid67 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://www.semanticweb.org/user/ontologies/2022/11/untitled-ontology-15#Przeznaczenie> .
+_:genid67 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#List> .
+# 
+# Generated by the OWL API (version 5.1.18) https://github.com/owlcs/owlapi/

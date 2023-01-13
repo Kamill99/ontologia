@@ -1,0 +1,39 @@
+digraph ar2dtool_diagram { 
+rankdir=LR;
+size="1000"
+node [shape = rectangle, color="black"]; "base:Trawienie" "base:Suplement" "base:Berberyna" "base:Rhodiola_Rosea" "base:Stawy" "base:Odporność" "base:Witaminy" "base:Żelazo" "base:OczyIWzrok" "base:Koncentracja" "base:Kolagen" "base:Cynk" "base:Zdrowie" "base:Witamina_A" "base:Witamina_D" "base:Kofeina" "base:Witamina_B12" "base:Wapń" "base:Przeznaczenie" "base:Rodzaj" "base:LepszySen" "base:Olejek_CBD" "base:Melatonina" "base:DlaWegetarian" "base:Luteina" "base:Omega_3" "base:PracaSerca" "base:Magnez" "base:Witamina_C" "base:Pobudzenie" "base:Sklad" "base:Ashwagandha" "base:Pamięć" "base:DlaWegan" "base:Stres" "base:Minerały" "base:Kofeina-tabletki" ; /*classes style*/
+	"base:Odporność" -> "base:Przeznaczenie" [ label = "rdfs:subClassOf" ];
+	"base:Witamina_D" -> "base:Suplement" [ label = "rdfs:subClassOf" ];
+	"base:Stres" -> "base:Przeznaczenie" [ label = "rdfs:subClassOf" ];
+	"base:Omega_3" -> "base:Suplement" [ label = "rdfs:subClassOf" ];
+	"base:Witaminy" -> "base:Rodzaj" [ label = "rdfs:subClassOf" ];
+	"base:Melatonina" -> "base:Suplement" [ label = "rdfs:subClassOf" ];
+	"base:Witamina_C" -> "base:Suplement" [ label = "rdfs:subClassOf" ];
+	"base:Witamina_B12" -> "base:Suplement" [ label = "rdfs:subClassOf" ];
+	"base:Kofeina" -> "base:Sklad" [ label = "rdfs:subClassOf" ];
+	"base:DlaWegan" -> "base:Przeznaczenie" [ label = "rdfs:subClassOf" ];
+	"base:Trawienie" -> "base:Przeznaczenie" [ label = "rdfs:subClassOf" ];
+	"base:Żelazo" -> "base:Suplement" [ label = "rdfs:subClassOf" ];
+	"base:LepszySen" -> "base:Przeznaczenie" [ label = "rdfs:subClassOf" ];
+	"base:Minerały" -> "base:Rodzaj" [ label = "rdfs:subClassOf" ];
+	"base:Wapń" -> "base:Suplement" [ label = "rdfs:subClassOf" ];
+	"base:Zdrowie" -> "base:Rodzaj" [ label = "rdfs:subClassOf" ];
+	"base:Magnez" -> "base:Suplement" [ label = "rdfs:subClassOf" ];
+	"base:Pamięć" -> "base:Przeznaczenie" [ label = "rdfs:subClassOf" ];
+	"base:Witamina_A" -> "base:Suplement" [ label = "rdfs:subClassOf" ];
+	"base:Kolagen" -> "base:Suplement" [ label = "rdfs:subClassOf" ];
+	"base:Cynk" -> "base:Suplement" [ label = "rdfs:subClassOf" ];
+	"base:Stawy" -> "base:Przeznaczenie" [ label = "rdfs:subClassOf" ];
+	"base:Pobudzenie" -> "base:Przeznaczenie" [ label = "rdfs:subClassOf" ];
+	"base:Rhodiola_Rosea" -> "base:Suplement" [ label = "rdfs:subClassOf" ];
+	"base:Koncentracja" -> "base:Przeznaczenie" [ label = "rdfs:subClassOf" ];
+	"base:DlaWegetarian" -> "base:Przeznaczenie" [ label = "rdfs:subClassOf" ];
+	"base:Olejek_CBD" -> "base:Suplement" [ label = "rdfs:subClassOf" ];
+	"base:PracaSerca" -> "base:Przeznaczenie" [ label = "rdfs:subClassOf" ];
+	"base:Luteina" -> "base:Suplement" [ label = "rdfs:subClassOf" ];
+	"base:OczyIWzrok" -> "base:Przeznaczenie" [ label = "rdfs:subClassOf" ];
+	"base:Berberyna" -> "base:Suplement" [ label = "rdfs:subClassOf" ];
+	"base:Ashwagandha" -> "base:Suplement" [ label = "rdfs:subClassOf" ];
+	"base:Kofeina-tabletki" -> "base:Suplement" [ label = "rdfs:subClassOf" ];
+
+}
